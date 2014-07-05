@@ -16,7 +16,19 @@ colorscheme wombat
 
 ![wombat scheme](http://i.imgur.com/7tXnQvy.png)
 
-See more on [vivify](http://bytefluent.com/vivify/index.php?remote=github.com%2Fsheerun%2Fvim-wombat-scheme%2Fraw%2Fmaster%2Fcolors%2Fwombat.vim)
+See more on [vivify](http://bytefluent.com/vivify/index.php?remote=github.com%2Fsheerun%2Fvim-wombat-scheme%2Fraw%2Fmaster%2Fcolors%2Fwombat.vim).
+
+## Features
+
+* Cleaned up colors
+* No italics, everything is straight
+* Looks nice with powerline terminal scheme
+* Looks nice with powerlineish [vim-airline](https://github.com/bling/vim-airline) scheme
+* Error lines look readable
+* Highlight is monochromatic for readability
+* Awesome "80 characters limit" view
+* Line highlight looks good
+* Many other enhancements...
 
 ## License
 
