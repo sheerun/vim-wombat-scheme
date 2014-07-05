@@ -12,6 +12,12 @@ An enhanced [wombat256](http://www.vim.org/scripts/script.php?script_id=2465) co
 colorscheme wombat
 ```
 
+## Screenshot
+
+![wombat scheme](http://i.imgur.com/7tXnQvy.png)
+
+See more on [vivify](http://bytefluent.com/vivify/index.php?remote=github.com%2Fsheerun%2Fvim-wombat-scheme%2Fraw%2Fmaster%2Fcolors%2Fwombat.vim)
+
 ## License
 
 Distributed under the same terms as Vim itself. See `:help license`.
